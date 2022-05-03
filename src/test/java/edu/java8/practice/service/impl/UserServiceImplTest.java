@@ -1,5 +1,5 @@
 package edu.java8.practice.service.impl;
-
+//   mvn clean compile test-compile
 
 import edu.java8.practice.domain.Privilege;
 import edu.java8.practice.domain.User;
